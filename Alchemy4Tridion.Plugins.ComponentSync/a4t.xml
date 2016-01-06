@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<plugin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.alchemywebstore.com/">
+  <name>Component_Synchronizer</name>
+  <description><![CDATA[This Alchemy plug-in takes care of updating a component or all components based on a schema after a strucural change in the schema. 
+  In the CME, you can select a component and synchronize it as per its schema or alternatively, you can select a Schema and synchronize all respective components based on the selected schema. Currently this plug-in supports the SDL Tridion 2013SP1 and higher and the work to provide backward compatibility with SDL Tridion 2011 is in progress.
+  An end user can choose to synchronizes all changes in the schema at once or can choose to synchronizes for specific changes like Namespace synchronization, apply default value for mandatory or non-mandatory field, remove unknown field etc.
+  
+  <b>Supported SDL Tridion Version:</b> SDL Tridion 2013 SP1
+  
+  <b><u>Disclaimer:</u></b> Any Component Synchronization have a potential of data loss depending on the changes in the schema and it is highly recommended to take a backup of all your Content before running the synchronization.  
+  
+  ]]></description>
+  <version>1.0.0.0</version>
+  <settings>
+    <client>
+    </client>
+    <encrypt>
+    </encrypt>
+  </settings>
+</plugin>

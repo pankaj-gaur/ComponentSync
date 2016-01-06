@@ -1,0 +1,15 @@
+C:\ARCHIVED_PROJECTS\Tridion\Alchemy\ComponentSync\Alchemy4Tridion.Plugins.ComponentSync\bin\Debug\Alchemy4Tridion.Plugins.ComponentSync.dll
+C:\ARCHIVED_PROJECTS\Tridion\Alchemy\ComponentSync\Alchemy4Tridion.Plugins.ComponentSync\bin\Debug\Alchemy4Tridion.Plugins.ComponentSync.pdb
+C:\ARCHIVED_PROJECTS\Tridion\Alchemy\ComponentSync\Alchemy4Tridion.Plugins.ComponentSync\bin\Debug\Alchemy4Tridion.Plugins.dll
+C:\ARCHIVED_PROJECTS\Tridion\Alchemy\ComponentSync\Alchemy4Tridion.Plugins.ComponentSync\bin\Debug\Newtonsoft.Json.dll
+C:\ARCHIVED_PROJECTS\Tridion\Alchemy\ComponentSync\Alchemy4Tridion.Plugins.ComponentSync\bin\Debug\System.Net.Http.Formatting.dll
+C:\ARCHIVED_PROJECTS\Tridion\Alchemy\ComponentSync\Alchemy4Tridion.Plugins.ComponentSync\bin\Debug\System.Web.Http.dll
+C:\ARCHIVED_PROJECTS\Tridion\Alchemy\ComponentSync\Alchemy4Tridion.Plugins.ComponentSync\bin\Debug\Tridion.Common.dll
+C:\ARCHIVED_PROJECTS\Tridion\Alchemy\ComponentSync\Alchemy4Tridion.Plugins.ComponentSync\bin\Debug\Tridion.ContentManager.CoreService.Client.dll
+C:\ARCHIVED_PROJECTS\Tridion\Alchemy\ComponentSync\Alchemy4Tridion.Plugins.ComponentSync\bin\Debug\Tridion.ContentManager.dll
+C:\ARCHIVED_PROJECTS\Tridion\Alchemy\ComponentSync\Alchemy4Tridion.Plugins.ComponentSync\bin\Debug\Alchemy4Tridion.Plugins.xml
+C:\ARCHIVED_PROJECTS\Tridion\Alchemy\ComponentSync\Alchemy4Tridion.Plugins.ComponentSync\bin\Debug\Newtonsoft.Json.xml
+C:\ARCHIVED_PROJECTS\Tridion\Alchemy\ComponentSync\Alchemy4Tridion.Plugins.ComponentSync\bin\Debug\System.Net.Http.Formatting.xml
+C:\ARCHIVED_PROJECTS\Tridion\Alchemy\ComponentSync\Alchemy4Tridion.Plugins.ComponentSync\bin\Debug\System.Web.Http.xml
+C:\ARCHIVED_PROJECTS\Tridion\Alchemy\ComponentSync\Alchemy4Tridion.Plugins.ComponentSync\obj\Debug\Alchemy4Tridion.Plugins.ComponentSync.dll
+C:\ARCHIVED_PROJECTS\Tridion\Alchemy\ComponentSync\Alchemy4Tridion.Plugins.ComponentSync\obj\Debug\Alchemy4Tridion.Plugins.ComponentSync.pdb

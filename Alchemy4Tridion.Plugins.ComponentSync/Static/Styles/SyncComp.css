@@ -1,0 +1,34 @@
+﻿.contextmenu #cm_compsync_all > .image 
+{
+    background-image: url('${ImgUrl}comp-sync-icon.png');
+}
+
+.contextmenu #cm_compsync_more_fn > .image 
+{
+    background-image: url('${ImgUrl}fixns.png');
+}
+
+.contextmenu #cm_compsync_more_adm > .image 
+{
+    background-image: url('${ImgUrl}applymf.png');
+}
+
+.contextmenu #cm_compsync_more_adnm > .image 
+{
+    background-image: url('${ImgUrl}applynmf.png');
+}
+
+.contextmenu #cm_compsync_more_acft > .image 
+{
+    background-image: url('${ImgUrl}applycf.png');
+}
+
+.contextmenu #cm_compsync_more_ruf > .image 
+{
+    background-image: url('${ImgUrl}removeuf.png');
+}
+
+.contextmenu #cm_compsync_more_raf > .image 
+{
+    background-image: url('${ImgUrl}removeaf.png');
+}
